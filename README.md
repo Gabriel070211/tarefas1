@@ -1,13 +1,26 @@
-# Este projeto  um projeto que voce pode usar no seu dia a dia para anotar as suas tarefas.
+#  Lista de Tarefas com  JavaScript  :clipboard:
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-premium%2Fo-ceu-da-paisagem-do-arco-iris-refletiu-a-imagem-de-fundo-da-natureza-da-agua-ai-gerou-a-arte_46480920.htm&psig=AOvVaw2E3ps_rMBAoXPLK_HYN67d&ust=1696453556726000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDVsqjk2oEDFQAAAAAdAAAAABAE">
+## :rocket: Sobre o projeto
 
-# Funciona assim voce digita uma tarefa e ela vai para a caixa de a fazer quando voce começar a fazer a tarefa voce clica no nome dela e ela vai mudar para o em andameto e quando voce terminar essa tarefa voce clica em concluido e de voce quiser tirar ela da tela clica em cima dela de novo
+Este é um site de lista de tarefas, que permite aos usuários adicionar e mover a tarefa de acordo com seu status: 
 
-# Eu usei :
+ :arrow_right:  `A fazer`
+ :arrow_right:  `Em Andamento`
+ :arrow_right:  `Concluído`
 
-# HTML
+## :memo: Uso
 
-# CSS
+Para adicionar uma tarefa, digite a descrição da tarefa no campo de entrada e clique no botão. A tarefa será adicionada à lista "A Fazer".
 
-# JAVA SCRIPT
+Para mover uma tarefa, clique no texto da tarefa e ela passará para a lista ao lado.
+
+Quando a tarefa clicada, estiver na lista de  "Concluídas", será removida da tela.
+
+## :computer: Tecnologias usadas:
+
+- `Javascript`
+- `HTML`
+- `CSS`
+
+## :tv: DESIGN
+ <img src='screen.png'>
